@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codejazz.io</id>
     <title>编程狂想曲</title>
-    <updated>2019-07-23T08:06:15.107Z</updated>
+    <updated>2019-07-23T22:52:49.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codejazz.io"/>
     <link rel="self" href="https://codejazz.io/atom.xml"/>
     <logo>https://codejazz.io/images/avatar.png</logo>
     <icon>https://codejazz.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 编程狂想曲</rights>
+    <entry>
+        <title type="html"><![CDATA[机器学习]]></title>
+        <id>https://codejazz.io/post/ji-qi-xue-xi</id>
+        <link href="https://codejazz.io/post/ji-qi-xue-xi">
+        </link>
+        <updated>2019-07-23T22:25:37.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://codejazz.io/post-images/1563920780913.jpg" alt=""></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ohh]]></title>
         <id>https://codejazz.io/post/ohh</id>
