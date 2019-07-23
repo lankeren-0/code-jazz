@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/Users/void/Documents/Gridea/output</id>
+    <id>https://codejazz.io</id>
     <title>Gridea</title>
-    <updated>2019-07-21T13:24:33.308Z</updated>
+    <updated>2019-07-23T02:48:49.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/Users/void/Documents/Gridea/output"/>
-    <link rel="self" href="/Users/void/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://codejazz.io"/>
+    <link rel="self" href="https://codejazz.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>/Users/void/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>/Users/void/Documents/Gridea/output/favicon.ico</icon>
+    <logo>https://codejazz.io/images/avatar.png</logo>
+    <icon>https://codejazz.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>/Users/void/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="/Users/void/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>https://codejazz.io/post/hello-gridea</id>
+        <link href="https://codejazz.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
