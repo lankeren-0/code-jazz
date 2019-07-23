@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Hello Gridea | 编程狂想曲</title>
 <meta name="description" content="" />
-<link rel="shortcut icon" href="https://codejazz.io/favicon.ico?v=1563868026620">
+<link rel="shortcut icon" href="https://codejazz.io/favicon.ico?v=1563869163980">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://codejazz.io/styles/main.css">
@@ -20,7 +20,7 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://codejazz.io">
-  <img class="avatar" src="https://codejazz.io/images/avatar.png?v=1563868026620" alt="">
+  <img class="avatar" src="https://codejazz.io/images/avatar.png?v=1563869163980" alt="">
   </a>
   <h1 class="site-title">
     编程狂想曲
@@ -132,6 +132,32 @@
 
         
 
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'df55cbc5a742109c9b95',
+    clientSecret: '4322d91a42e107e31d86adb36743cfccd336813b',
+    repo: 'code-jazz-gitalk',
+    owner: 'lankeren-0',
+    admin: ['lankeren-0'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
         
 
         <div class="site-footer">
