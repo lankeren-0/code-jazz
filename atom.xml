@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codejazz.io</id>
     <title>编程狂想曲</title>
-    <updated>2019-07-24T13:19:00.099Z</updated>
+    <updated>2019-07-24T13:19:26.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codejazz.io"/>
     <link rel="self" href="https://codejazz.io/atom.xml"/>
