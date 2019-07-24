@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codejazz.io</id>
     <title>编程狂想曲</title>
-    <updated>2019-07-23T22:58:33.405Z</updated>
+    <updated>2019-07-24T05:28:14.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codejazz.io"/>
     <link rel="self" href="https://codejazz.io/atom.xml"/>
     <logo>https://codejazz.io/images/avatar.png</logo>
     <icon>https://codejazz.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 编程狂想曲</rights>
+    <entry>
+        <title type="html"><![CDATA[emacs 之 gtd]]></title>
+        <id>https://codejazz.io/post/emacs-zhi-gtd</id>
+        <link href="https://codejazz.io/post/emacs-zhi-gtd">
+        </link>
+        <updated>2019-07-24T05:27:29.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://emacs-china.org/t/topic/5013/3">org mode</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[vscode毛玻璃插件]]></title>
         <id>https://codejazz.io/post/vscode-glass</id>
