@@ -2,13 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codejazz.io</id>
     <title>编程狂想曲</title>
-    <updated>2019-07-24T05:28:14.955Z</updated>
+    <updated>2019-07-24T13:19:00.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codejazz.io"/>
     <link rel="self" href="https://codejazz.io/atom.xml"/>
     <logo>https://codejazz.io/images/avatar.png</logo>
     <icon>https://codejazz.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 编程狂想曲</rights>
+    <entry>
+        <title type="html"><![CDATA[python 爬虫]]></title>
+        <id>https://codejazz.io/post/python-pa-chong</id>
+        <link href="https://codejazz.io/post/python-pa-chong">
+        </link>
+        <updated>2019-07-24T13:14:35.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://github.com/Alfred1984/interesting-python">有趣的python爬虫</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[python 扣图库]]></title>
+        <id>https://codejazz.io/post/python-kou-tu-ku</id>
+        <link href="https://codejazz.io/post/python-kou-tu-ku">
+        </link>
+        <updated>2019-07-24T13:12:47.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://github.com/brilam/remove-bg">remove-log</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vscode插件 打字特效]]></title>
+        <id>https://codejazz.io/post/vscode-cha-jian-da-zi-te-xiao</id>
+        <link href="https://codejazz.io/post/vscode-cha-jian-da-zi-te-xiao">
+        </link>
+        <updated>2019-07-24T13:11:18.000Z</updated>
+        <content type="html"><![CDATA[<p>就像加了特效一样<br>
+<a href="https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode">power-mode</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员在线工具箱]]></title>
+        <id>https://codejazz.io/post/cheng-xu-yuan-zai-xian-gong-ju-xiang</id>
+        <link href="https://codejazz.io/post/cheng-xu-yuan-zai-xian-gong-ju-xiang">
+        </link>
+        <updated>2019-07-24T13:08:24.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.toolfk.com">toolfk</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[emacs 之 gtd]]></title>
         <id>https://codejazz.io/post/emacs-zhi-gtd</id>
