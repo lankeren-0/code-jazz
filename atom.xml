@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codejazz.io</id>
     <title>编程狂想曲</title>
-    <updated>2019-08-06T10:57:50.928Z</updated>
+    <updated>2019-08-06T10:59:44.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codejazz.io"/>
     <link rel="self" href="https://codejazz.io/atom.xml"/>
     <logo>https://codejazz.io/images/avatar.png</logo>
     <icon>https://codejazz.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 编程狂想曲</rights>
+    <entry>
+        <title type="html"><![CDATA[js 函数库]]></title>
+        <id>https://codejazz.io/post/js-han-shu-ku</id>
+        <link href="https://codejazz.io/post/js-han-shu-ku">
+        </link>
+        <updated>2019-08-06T10:59:25.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://github.com/eduardolundgren/tracking.js/">tracking.js</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迷你看板]]></title>
         <id>https://codejazz.io/post/mi-ni-kan-ban</id>
@@ -89,15 +98,6 @@
         </link>
         <updated>2019-07-24T21:19:32.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://github.com/shimohq/chinese-programmer-wrong-pronunciation">容易发音错误的单词</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[python 爬虫]]></title>
-        <id>https://codejazz.io/post/python-pa-chong</id>
-        <link href="https://codejazz.io/post/python-pa-chong">
-        </link>
-        <updated>2019-07-24T13:14:35.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://github.com/Alfred1984/interesting-python">有趣的python爬虫</a></p>
 ]]></content>
     </entry>
 </feed>
